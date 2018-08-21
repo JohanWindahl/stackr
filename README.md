@@ -7,4 +7,4 @@ Project in the course: Introduction to Game Programming - 1DV437
 **Details:** A casual endless platform game.
 
 
-![dm](https://github.com/JohanWindahl/Artificial-Intelligence/blob/master/demo.gif)
+![dm](https://github.com/JohanWindahl/stackr/blob/master/demo.gif)
